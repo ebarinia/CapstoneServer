@@ -15,8 +15,11 @@ On WWW, a user is able to create an account (or log in if already registered) an
 
 Full-Stack web application with a client-server architecture consisting on a REST API that handles client requests and connects to a PostgreSQL database to store data.
 
-For the front-end, we have built our application with React and SassyCSS. Additionally, we are also using Firebase real-time database and storage in order to store our images and new account details. 
-Firebase is also used for Authentication/Authorisation, as well as for the live-chat (with the use of Snapshots).
+For the front-end, we have built our application with React and SassyCSS. Additionally, we are also using Firebase real-time database and storage in order to store our images and new account details.
+
+One of the standout features we've implemented is the live-chat functionality, seamlessly integrated using Snapshots within Firebase. This facilitates real-time communication, enabling our users to engage effortlessly.
+
+This tech stack fusion enables us to deliver a seamless, secure, and feature-rich application, ensuring optimal performance and user satisfaction at every turn.
 
 
 ## How to get started?
